@@ -1,0 +1,6 @@
+﻿Build started at 1:40 pm...
+1>------ Build started: Project: Banayo_Website Program, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>Banayo_Website Program -> C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 1:40 pm and took 01.218 seconds ==========

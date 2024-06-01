@@ -1,0 +1,30 @@
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\appsettings.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.staticwebassets.runtime.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.exe
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.deps.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.runtimeconfig.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.dll
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\bin\Debug\net8.0\Banayo_Website Program.pdb
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.AssemblyInfoInputs.cache
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.AssemblyInfo.cs
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.csproj.CoreCompileInputs.cache
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.RazorAssemblyInfo.cache
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.RazorAssemblyInfo.cs
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets\msbuild.Banayo_Website Program.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets\msbuild.build.Banayo_Website Program.props
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Banayo_Website Program.props
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Banayo_Website Program.props
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\scopedcss\bundle\Banayo_Website Program.styles.css
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\scopedcss\projectbundle\Banayo_Website Program.bundle.scp.css
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.dll
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\refint\Banayo_Website Program.dll
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.pdb
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\Banayo_Website Program.genruntimeconfig.cache
+C:\Users\VGD-A2\Desktop\Website Program_Banayo\Banayo_Website Program\Banayo_Website Program\obj\Debug\net8.0\ref\Banayo_Website Program.dll
